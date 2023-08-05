@@ -1,0 +1,24 @@
+*{
+    margin-top: 20px;
+}
+.headernav {
+    background-color: #87509c;
+    margin-top: 20px;
+}
+.nav-link{
+    color: #ffffff;
+}
+.headerbutton{
+    margin-top: 10px;
+    background-color: #eb7d4b;
+    color: #ffffff;
+    border: 0px;
+}
+.rounded{
+    border-top: 8px solid #bbb;
+    border-radius: 5px;
+    height:25px;
+}
+form::placeholder{
+    color: #ffffff;
+}
